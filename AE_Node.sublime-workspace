@@ -1,0 +1,621 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"QuoteGrid",
+				"QuoteGrid"
+			],
+			[
+				"bacground",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"center",
+				"centerOfChip"
+			],
+			[
+				"Type_PreComp_MED",
+				"Type_PreComp_MEDLONG"
+			],
+			[
+				"tra",
+				"transitionName"
+			],
+			[
+				"newTrans",
+				"newTransText"
+			],
+			[
+				"tran",
+				"transitionSelect"
+			],
+			[
+				"o",
+				"outlineTextSelect"
+			],
+			[
+				"trans",
+				"transTextName"
+			],
+			[
+				"transition",
+				"transitionName"
+			],
+			[
+				"askYes",
+				"askYesNo2"
+			],
+			[
+				"vector",
+				"vector\tstandard header"
+			],
+			[
+				"default",
+				"default"
+			],
+			[
+				"valid_",
+				"valid_max"
+			],
+			[
+				"Display_",
+				"DISPLAY_PIXEL"
+			],
+			[
+				"popu",
+				"popup_string"
+			],
+			[
+				"display",
+				"DISPLAY_PIXEL"
+			],
+			[
+				"valid",
+				"valid_max"
+			],
+			[
+				"val",
+				"valid_min"
+			],
+			[
+				"slider",
+				"slider_max"
+			],
+			[
+				"sli",
+				"slider_min"
+			],
+			[
+				"de",
+				"default_y"
+			],
+			[
+				"defau",
+				"default_green"
+			],
+			[
+				"ew",
+				"ew"
+			],
+			[
+				"__",
+				"__name__"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello.js",
+			"settings":
+			{
+				"buffer_size": 3046,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test_project.aep",
+			"settings":
+			{
+				"buffer_size": 158190,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"view in bro",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"sync",
+				"Sync Settings: Upload"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"subline",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"vir",
+				"Virtualenv: Activate"
+			],
+			[
+				"virt",
+				"Virtualenv: Activate"
+			],
+			[
+				"server",
+				"SublimeServer: Stop SublimeServer"
+			],
+			[
+				"git",
+				"Sublimerge: Show Uncommited Changes..."
+			],
+			[
+				"build",
+				"Build With: C++ Single File - Run"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/206098175/Projects/after-effects"
+	],
+	"file_history":
+	[
+		"/Users/206098175/Projects/after-effects/index.js",
+		"/Users/206098175/Projects/after-effects/myfirstmodule.js",
+		"/Users/206098175/Projects/after-effects/hello.js",
+		"/Users/206098175/Projects/nexrender-boilerplate/start.js",
+		"/Users/206098175/Projects/after-effects/README.md",
+		"/Users/206098175/Desktop/2018/09/28/Connect_Vertex_to_Point.jsx",
+		"/Users/206098175/Desktop/2018/09/28/basic-expression-injector-master/Expression Injector.jsx",
+		"/Users/206098175/Desktop/2018/09/28/ae-save-and-load-data-master/Save and Load Data.jsx",
+		"/Users/206098175/Desktop/2018/09/28/654510-51f9363689d9c7764f6fab31581103f95d0e5cff/json2.js",
+		"/Users/206098175/Desktop/2018/09/28/json2.js",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/examples/files-and-folders.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/settings.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/tools/testrunner.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/examples/xml-traversal.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/examples/basic.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/doc/index.rst",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/context.jsx",
+		"/Users/206098175/Desktop/glob.py",
+		"/Users/206098175/Desktop/list.txt",
+		"/Users/206098175/Desktop/toThumb/OneTab_WorkSync/.git/COMMIT_EDITMSG",
+		"/Users/206098175/Desktop/2018/09/27/dropDownDemo/dropDownDemo.jsx",
+		"/Users/206098175/Desktop/2018/09/27/socket_simpler.py",
+		"/Users/206098175/Desktop/2018/09/27/talk_to_AE.py",
+		"/Users/206098175/Desktop/2018/09/27/rigged-projects-master/drive-text-color/capitol-cities.json",
+		"/Users/206098175/Desktop/2018/09/27/rigged-projects-master/display-albums/albums.json",
+		"/Users/206098175/Desktop/DTApps/mongoose.conf",
+		"/Users/206098175/Desktop/2018/09/27/mimic2.2/test/qunit/qunit.js",
+		"/Users/206098175/Desktop/2018/09/27/geturl/GetURLs.jsx",
+		"/Volumes/GFX2/Graphics/MISC/Lists/SearchGFX2_pypy.py",
+		"/Volumes/GFX2/Graphics/MISC/Lists/fun_with_sets.py",
+		"/Users/206098175/touch",
+		"/Users/206098175/Desktop/2018/09/25/notes.txt",
+		"/Volumes/GFX2/Graphics/MISC/Lists/Concat_Lists.py",
+		"/Users/206098175/data_file.json",
+		"/Users/206098175/Keeper/AEStuff/Files.jsx",
+		"/Users/206098175/Keeper/AEStuff/Tournament_elements_script.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/Tournament_elements_script.jsx",
+		"/Users/206098175/Desktop/EURO.txt",
+		"/Users/206098175/Desktop/EURO_Dirs.py",
+		"/Users/206098175/Desktop/WEB.txt",
+		"/Users/206098175/Desktop/CHAMPS_Dirs.py",
+		"/Users/206098175/Desktop/CHAMPS.txt",
+		"/Users/206098175/Desktop/LPGA_Tourneys.txt",
+		"/Users/206098175/Desktop/LPGA_Dirs.py",
+		"/Users/206098175/Desktop/test.js",
+		"/Users/206098175/Desktop/test_file_write.html",
+		"/Users/206098175/Desktop/toThumb/OneTab_WorkSync/one-on-one meeting agenda.txt",
+		"/Users/206098175/Projects/lists/make_directories_mac.py",
+		"/Users/206098175/Desktop/Monday/Paris_Gettys.txt",
+		"/Users/206098175/Projects/VUEJS/V10777_Code/S10/progress-bar.html",
+		"/Users/206098175/Projects/VUEJS/V10777_Code/S10/Finished/src/components/QuoteGrid.vue",
+		"/Users/206098175/Projects/vue-first/src/components/NewQuote.vue",
+		"/Users/206098175/Projects/vue-first/src/App.vue",
+		"/Users/206098175/Projects/vue-first/src/components/QuoteGrid.vue",
+		"/Users/206098175/Projects/VUEJS/V10777_Code/S10/Finished/src/App.vue",
+		"/Users/206098175/Projects/vue-first/webpack.config.js",
+		"/Users/206098175/Projects/vue-first/src/components/Quote.vue",
+		"/Users/206098175/Desktop/counter.py",
+		"/Users/206098175/Desktop/sample.txt",
+		"/Users/206098175/Projects/vue-first/src/components/Header.vue",
+		"/Users/206098175/node/configure.py",
+		"/Volumes/GFX2/Graphics/MISC/Lists/test_pypy.command",
+		"/Users/206098175/Projects/VUEJS/V10777_Code/S4/Setup/index.html",
+		"/Users/206098175/Projects/VUEJS/V10777_Code/S4/Setup/app.js",
+		"/Users/206098175/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/206098175/Projects/VUEJS/index.html",
+		"/Users/206098175/Projects/VUEJS/001/index.html",
+		"/Users/206098175/Projects/VUEJS/ListeningToEvents/index.html",
+		"/Users/206098175/Projects/VUEJS/vue.js",
+		"/Users/206098175/Projects/VUEJS/002/index.html",
+		"/Users/206098175/Projects/flasky/chromedriver",
+		"/Users/206098175/Projects/flasky/hello.py",
+		"/Users/206098175/Desktop/TODO/DIYPerks Camera Slider.txt",
+		"/Users/206098175/Projects/Custom_Animation_from_html/sample_custom.txt",
+		"/Users/206098175/Projects/flaskdev/Requests.txt",
+		"/Users/206098175/Desktop/Screen Shot 2018-09-04 at 10.30.05 AM.jpg",
+		"/Users/206098175/Keeper/AEStuff/after-effects-script-snippets-master/change-specific-setting.jsx",
+		"/Users/206098175/Keeper/AEStuff/after-effects-script-snippets-master/array-of-nulls.js",
+		"/Users/206098175/Keeper/AEStuff/after-effects-script-snippets-master/add-text.jsx",
+		"/Users/206098175/Keeper/AEStuff/after-effects-script-snippets-master/__movetotop.jsx",
+		"/Users/206098175/Projects/realtime-table/models.py",
+		"/Users/206098175/Projects/Custom_Animation_from_html/first_functions_test.jsx",
+		"/Users/206098175/Projects/Custom_Animation_from_html/test.js",
+		"/Users/206098175/Keeper/AEStuff/NOC_AE-master/2-Chapter_2-Forces/VectorLib.jsx",
+		"/Users/206098175/Keeper/AEStuff/NOC_AE-master/1-Chapter_1-Vectors/1-1.jsx",
+		"/Users/206098175/Desktop/toThumb/AE/aetoolbox.jsx",
+		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/adastra.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/library/utils_keys.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/library/fonts.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/library/debug.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/library/3d.jsx",
+		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/misc/sampleColor.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/library/vectorMath.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/library/prototype.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/library/paragraph.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/library/paragraph2D.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/library/utils.jsx",
+		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/library/debug.jsx",
+		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/library/fonts.jsx",
+		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/library/3d.jsx",
+		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/countdown_timer.jsx",
+		"/Users/206098175/Keeper/AEStuff/refresher_script_panel.jsx",
+		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/SelectedLayers.jsx",
+		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/Random_Colors.jsx",
+		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/NullParent.jsx",
+		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/Noise.jsx",
+		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/Move_Frames.jsx",
+		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/MasksAndEffects.jsx",
+		"/Users/206098175/Keeper/AEStuff/applyPseudoEffects_withoutWritingPrefs.jsx",
+		"/Volumes/GFX2/Graphics/MISC/Lists/changes_2018-08-19.txt",
+		"/Volumes/GFX2/Graphics/MISC/Lists/changes_2018-08-20.txt",
+		"/Volumes/GFX2/Graphics/MISC/Lists/changes_2018-08-22.txt",
+		"/Users/206098175/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/206098175/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/AllTheExpressionsIn Use.js",
+		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/Scorecard_Expressions.jsx",
+		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/PresetEffects.xml",
+		"/Applications/Adobe After Effects CC 2014/Adobe After Effects CC 2014.app/Contents/Resources/PresetEffects.xml",
+		"/Applications/Adobe After Effects CC 2014/Adobe After Effects CC 2014.app/Contents/Resources/PresetEffects_scorecard.xml",
+		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/LoadPseudoEffects_ScriptToolkit.jsx",
+		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/MatchPlayScorecard_POPUPS-PresetEffects.xml",
+		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/Search_Replace_SelectedPropertiesExpressions.jsx",
+		"/Volumes/GFX2/Graphics/MISC/Lists/find_new_files.py",
+		"/Users/206098175/Desktop/directories.py",
+		"/Users/206098175/Desktop/wgc.txt",
+		"/Volumes/GFX2/Graphics/TOURNAMENTS/TOURNAMENT_SPECIFIC/01_PGA/pga.txt",
+		"/Users/206098175/Projects/searchGFX2_PYPY/archive/FileList2018-08-15.txt",
+		"/Users/206098175/Projects/searchGFX2_PYPY/fine_new_files.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3046,
+								3046
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test_project.aep",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 371.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 120.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "AE_Node.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

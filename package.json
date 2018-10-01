@@ -15,7 +15,7 @@
   "author": "Ben Gaumond",
   "license": "ISC",
   "dependencies": {
-    "babel-core": "^6.4.5",
+    "babel-core": "^6.26.3",
     "babel-plugin-transform-es3-member-expression-literals": "^6.8.0",
     "babel-plugin-transform-es3-property-literals": "^6.8.0",
     "babel-plugin-transform-es5-property-mutators": "^6.8.0",
