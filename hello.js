@@ -17,7 +17,11 @@ var myposition = ae(() => {
 console.log(myposition); // alerts to local console, not AE
 
 // THIS IS A FUNCTION DEFINITION ALSO
-var foo = () => app.project.item(1).layer(1).duplicate();
+var sdaf = "sdfaf";
+var foo = (sdaf) => {
+    app.project.item(1).layer(1).duplicate();
+    alert(sdaf);
+}
 
 ae(foo); // SENDS AND RUNS FUNCTION foo IN AE
 
@@ -53,7 +57,7 @@ var settext = () => {
     textDocument.applyStroke = true;
     textDocument.applyFill = true;
     textDocument.text = myString.toUpperCase();
-    textDocument.justification = ParagraphJustification.CENTER_JUSTIFY;
+    textDocument.justification = ParagraphJustification.LEFT_JUSTIFY;
     textDocument.tracking = 50;
     textProp.setValue(textDocument);
 

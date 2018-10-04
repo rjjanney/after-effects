@@ -3,6 +3,15 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/HelloWorld"
+		},
+		{
+			"path": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension"
+		},
+		{
+			"path": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/AfterEffectsPanel"
 		}
 	]
 }
