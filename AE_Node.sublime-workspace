@@ -132,35 +132,15 @@
 			"settings":
 			{
 				"buffer_size": 1100,
-				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/HelloWorld/CSXS/manifest.xml",
+			"file": "freeCodeCamp_JS/diffArray.js",
 			"settings":
 			{
-				"buffer_size": 1100,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsx",
-			"settings":
-			{
-				"buffer_size": 1311,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsfl",
-			"settings":
-			{
-				"buffer_size": 323,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"buffer_size": 639,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -171,25 +151,7 @@
 			"settings":
 			{
 				"buffer_size": 0,
-				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/index.html",
-			"settings":
-			{
-				"buffer_size": 1335,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/js/CSInterface-4.0.0.js",
-			"settings":
-			{
-				"buffer_size": 23715,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -341,14 +303,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/206098175/Projects/after-effects",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS",
 		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension",
-		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/js",
-		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/AfterEffectsPanel",
-		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/AfterEffectsPanel/CSXS"
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/AfterEffectsPanel"
 	],
 	"file_history":
 	[
+		"/C/Users/rjjan/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-build",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/index.html",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsfl",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsx",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/HelloWorld/CSXS/manifest.xml",
 		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/CSXS/manifest.xml",
 		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/js/main.js",
 		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/js/main0.js",
@@ -471,16 +437,11 @@
 		"/Users/206098175/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/AllTheExpressionsIn Use.js",
 		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/Scorecard_Expressions.jsx",
-		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/PresetEffects.xml",
-		"/Applications/Adobe After Effects CC 2014/Adobe After Effects CC 2014.app/Contents/Resources/PresetEffects.xml",
-		"/Applications/Adobe After Effects CC 2014/Adobe After Effects CC 2014.app/Contents/Resources/PresetEffects_scorecard.xml",
-		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/LoadPseudoEffects_ScriptToolkit.jsx",
-		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/MatchPlayScorecard_POPUPS-PresetEffects.xml",
-		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/Search_Replace_SelectedPropertiesExpressions.jsx"
+		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/PresetEffects.xml"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -548,7 +509,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -586,36 +547,36 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/HelloWorld/CSXS/manifest.xml",
-					"semi_transient": false,
+					"file": "freeCodeCamp_JS/diffArray.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1100,
+						"buffer_size": 639,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1100,
-								1100
+								152,
+								152
 							]
 						],
 						"settings":
 						{
-							"git_gutter_is_enabled": false,
+							"git_gutter_is_enabled": true,
 							"origPos":
 							[
 								0.0,
 								0.0
 							],
 							"syncScroll": false,
-							"syntax": "Packages/XML/XML.sublime-syntax",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -628,78 +589,6 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1311,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1311,
-								1311
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": false,
-							"origPos":
-							[
-								0.0,
-								0.0
-							],
-							"syncScroll": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsfl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 323,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								323,
-								323
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": false,
-							"origPos":
-							[
-								0.0,
-								0.0
-							],
-							"syncScroll": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "/Users/206098175/Desktop/2018/10/02/cep-sample-extension-master/testExtension/js/main.js",
 					"semi_transient": false,
 					"settings":
@@ -731,80 +620,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1335,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1335,
-								1335
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": false,
-							"origPos":
-							[
-								0.0,
-								0.0
-							],
-							"syncScroll": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/js/CSInterface-4.0.0.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 23715,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": false,
-							"origPos":
-							[
-								0.0,
-								0.0
-							],
-							"syncScroll": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 943.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -817,7 +633,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -843,7 +659,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.887940841866,
 			1.0
 		],
 		"rows":
@@ -877,7 +693,7 @@
 	"project": "AE_Node.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
