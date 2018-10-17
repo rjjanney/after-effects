@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Manual Unit Testing Examples</title>  
+<script src="tas.js"></script>  
+<script>  
+    function test(amount, rate, expected) {    
+        results.total++;
+        var result = addTax(amount, rate);
+        if (result !== expected) {
+            results.failed++;
+            console.log("Expected " + expected + ", but instead got " + result);
+        }   
+    }
+  var results = {    total: 0,    failed: 0  };
+  // Our unit tests  
+  test(1, 10, 1.1);
+  test(5, 12, 5.6);
+  test(100, 17.5, 117.5); 
+// Output results to the console 
+console.log(results.total + " tests carried out, " + results.failed + " failed, " +(results.total - results.failed) + " passed.");
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
