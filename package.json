@@ -22,6 +22,7 @@
     "babel-preset-es2015": "^6.3.13",
     "escape-string-applescript": "^2.0.0",
     "is-explicit": "^1.2.2",
+    "twit": "^2.2.11",
     "uglify-js": "^2.6.2",
     "uuid": "^2.0.1"
   }
