@@ -20,6 +20,7 @@
     "babel-plugin-transform-es3-property-literals": "^6.8.0",
     "babel-plugin-transform-es5-property-mutators": "^6.8.0",
     "babel-preset-es2015": "^6.3.13",
+    "csv": "^0.3.7",
     "escape-string-applescript": "^2.0.0",
     "is-explicit": "^1.2.2",
     "twit": "^2.2.11",
