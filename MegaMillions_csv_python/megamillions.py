@@ -2,7 +2,7 @@
 
 import pprint
 import csv
-with open('powerball.csv', 'rb') as f:
+with open('megamillions.csv', 'rb') as f:
     reader = csv.reader(f)
     thingy = []
     for row in reader:
@@ -30,6 +30,8 @@ with open('powerball.csv', 'rb') as f:
     while pickNumber < 6:
         print("Please enter the next number:")
         searchTerm = raw_input("> ")
+        if len(searchTerm) < 2:
+            searchTerm = "0" + searchTerm
         searchTermList.append(searchTerm)
         for row in thingy:
             for idx in range(0,5):
@@ -50,7 +52,7 @@ with open('powerball.csv', 'rb') as f:
 
     print "\n---------Your Numbers---------------------"
     searchTermList.sort()
-    print sorted(searchTermList)
+    print searchTermList
     print "Matched one or more .............................."
     pprint.pprint(sort_and_deduplicate(atLeastOne))
     print "..................................................."
