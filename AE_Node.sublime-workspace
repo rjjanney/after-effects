@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"console.log"
+			],
+			[
 				"QuoteGrid",
 				"QuoteGrid"
 			],
@@ -116,42 +120,50 @@
 	"buffers":
 	[
 		{
-			"file": "hello.js",
+			"file": "freeCodeCamp_JS/romanNumerals-alt.js",
 			"settings":
 			{
-				"buffer_size": 3093,
+				"buffer_size": 562,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<ExtensionManifest ExtensionBundleId=\"com.example.helloworld\" ExtensionBundleName=\"Hello world\" ExtensionBundleVersion=\"1.0\" Version=\"4.0\">\n  <ExtensionList>\n    <Extension Id=\"com.example.helloworld.extension\" Version=\"1.0\"/>\n  </ExtensionList>\n  <ExecutionEnvironment>\n    <HostList>\n      <Host Name=\"PHXS\" Version=\"[14.0,14.9]\"/>\n    </HostList>\n    <LocaleList>\n      <Locale Code=\"All\"/>\n    </LocaleList>\n    <RequiredRuntimeList>\n      <RequiredRuntime Name=\"CSXS\" Version=\"4.0\"/>\n    </RequiredRuntimeList>\n  </ExecutionEnvironment>\n  <DispatchInfoList>\n    <Extension Id=\"com.example.helloworld.extension\">\n      <DispatchInfo>\n        <Resources>\n          <MainPath>./index.html</MainPath>\n        </Resources>\n        <UI>\n          <Type>Panel</Type>\n          <Menu>Hello world</Menu>\n          <Geometry>\n            <Size>\n              <Height>400</Height>\n              <Width>400</Width>\n            </Size>\n          </Geometry>\n        </UI>\n      </DispatchInfo>\n    </Extension>\n  </DispatchInfoList>\n</ExtensionManifest>",
-			"file": "HelloWorld/CSXS/manifest.xml",
-			"file_size": 1100,
-			"file_write_time": 131829727260000000,
-			"settings":
-			{
-				"buffer_size": 1100,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "freeCodeCamp_JS/diffArray.js",
-			"settings":
-			{
-				"buffer_size": 639,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "",
-			"file": "/Users/206098175/Desktop/2018/10/02/cep-sample-extension-master/testExtension/js/main.js",
-			"file_size": 5322,
-			"file_write_time": 131829826310000000,
+			"file": "/C/Users/rjjan/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
+				"buffer_size": 1036,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSix\n---\n\n  CHANGELOG 0.8.102\n  \n      Sublime Text needs to be restarted for the changes to work.\n      \n      NEW: gj and gk in visual mode.\n      FIX: Improve implementation of gj, gk.\n  \n          NOTES:\n          gj and gk rely extensively on Sublime Text native commands\n          and currently have limitations in terms of Vim behavior.\n  \n      FIX: Enable repeating insertions in replace mode.\n      FIX: Esc after o or O removes whitespace in some cases.\n      FIX: Add jump after goto_definition (F12). The jump is added even if goto_definition is cancelled.\n  \n      Follow https://twitter.com/sublimesix for important notifications.\n\n  CHANGELOG 0.8.102-dev.20180929.5\n  \n      Sublime Text needs to be restarted for the changes to work.\n  \n      FIX: Add jump after goto_definition (F12).\n  \n      Follow https://twitter.com/sublimesix for important notifications.\n\n  CHANGELOG 0.8.102-dev.20180929.3\n  \n      Sublime Text needs to be restarted for the changes to work.\n  \n      FIX: Esc after o or O removes whitespace in some cases.\n  \n      Follow https://twitter.com/sublimesix for important notifications.\n\n  CHANGELOG 0.8.102-dev.20180929.1\n  \n      Sublime Text needs to be restarted for the changes to work.\n  \n      FIX: Enable repeating insertions in replace mode.\n  \n      Follow https://twitter.com/sublimesix for important notifications.\n\n  CHANGELOG 0.8.102-dev.20180922.6\n  \n      Sublime Text needs to be restarted for the changes to work.\n  \n      NEW: gj and gk in visual mode.\n      FIX: Improve implementation of gj, gk.\n      \n        NOTES:\n        gj and gk rely extensively on Sublime Text native commands\n        and currently have limitations in terms of Vim behavior.\n  \n      Follow https://twitter.com/sublimesix for important notifications.\n\n\nJavaScript Enhancements\n-----------------------\n\n  =================================================================\n  ** THIS PLUGIN IS IN BETA! Thanks for your support in advance! **\n  =================================================================\n  \n  If you like it, remember to star it ⭐ on GitHub: https://github.com/pichillilorenzo/JavaScriptEnhancements\n  \n  ** USAGE **\n  ===========\n  \n  See how it works on the Wiki: 👉👉 https://github.com/pichillilorenzo/JavaScriptEnhancements/wiki 👈👈\n  \n  A little introduction to this plugin could be found in this css-tricks.com article: \"Turn Sublime Text 3 into a JavaScript IDE\"\n  👉👉 https://css-tricks.com/turn-sublime-text-3-into-a-javascript-ide 👈👈\n  \n  \n  *****************************************************************************\n  *                                                                           *\n  *             Do you want to help me develop this plugin?                   *\n  *                                                                           *\n  *                     Become a member of the team!                          *\n  * (see https://github.com/pichillilorenzo/JavaScriptEnhancements/issues/51) *\n  *                                                                           *\n  *****************************************************************************\n  \n  \n  ** WHAT IS THIS? **\n  ===================\n  \n  This plugin uses Flow (javascript static type checker from Facebook) under the hood.\n  \n  It offers better javascript autocomplete and a lot of features about creating, \n  developing and managing javascript projects, such as:\n  \n  - Cordova projects (run cordova emulate, build, compile, serve, etc. directly from Sublime Text!)\n  - Ionic v1 and v2 (it includes also v3) projects (same as Cordova projects!)\n  - Angular v1 and v2 (it includes also v4 and v5) projects\n  - Vue projects (only about the creation at this moment, see https://github.com/pichillilorenzo/JavaScriptEnhancements/wiki/Example-Vue.js-project)\n  - React projects (only about the creation at this moment)\n  - React Native projects (only about the creation at this moment. I will add also NativeScript support)\n  - Express projects (only about the creation at this moment)\n  - Yeoman generators\n  - Local bookmarks project\n  - JavaScript real-time errors\n  - Code Refactoring\n  - etc.\n  \n  You could use it also in existing projects (see the Wiki - https://github.com/pichillilorenzo/JavaScriptEnhancements/wiki/Using-it-with-an-existing-project)!\n  \n  It turns Sublime Text into a JavaScript IDE like!\n  \n  This project is based on my other Sublime Text plugin JavaScript Completions (https://github.com/pichillilorenzo/JavaScript-Completions)\n  \n  ** NOTE **\n  If you want use this plugin, you may want uninstall/disable the JavaScript Completions plugin, if installed.\n  \n  ** OS SUPPORTED **\n  ==================\n  \n  👉 Linux (64-bit)\n  👉 Mac OS X \n  👉 Windows (64-bit): released without the use of TerminalView plugin. For each feature (like also creating a project) will be used the cmd.exe shell (so during the creation of a project don't close it until it finishes!). Unfortunately the TerminalView plugin supports only Linux-based OS 😞. See https://github.com/Wramberg/TerminalView/issues/3#issuecomment-390434623, that is a workaround using WSL (Windows Subsystem for Linux).\n  \n  ❗❗ Dependencies ❗❗\n  =======================\n  \n  In order to work properly, this plugin has some dependencies:\n  \n  👉 Sublime Text 3 (build 3124 or newer)\n  👉 Node.js and npm (https://nodejs.org or nvm (https://github.com/creationix/nvm))\n  👉 TerminalView (only for Linux and Mac OS X) sublime text plugin (https://github.com/Wramberg/TerminalView)\n  \n  Not required, but useful for typescript files (Flow wont work on this type of files):\n  \n  👉 TypeScript sublime text plugin (https://github.com/Microsoft/TypeScript-Sublime-Plugin) \n  \n  ** Flow Requirements **\n  =======================\n  \n  It use [Flow](https://github.com/facebook/flow) for type checking and auto-completions.\n  \n  👉 Mac OS X\n  👉 Linux (64-bit)\n  👉 Windows (64-bit)\n  \n  Email me for any questions or doubts about this new project on: pichillilorenzo@gmail.com\n  \n  ** Donation **\n  ==============\n  \n  If this project help you reduce time to develop and also you like it, please support it with a donation 😄👍. Thanks!\n  \n  Open Collective: https://opencollective.com/javascriptenhancements/donate\n  PayPal: https://www.paypal.me/LorenzoPichilli\n  \n  Thanks anyway for your support! 😄😄\n  \n  MIT License\n\n\nConsole Wrap\n------------\n\n  Console Wrap \n  ===============================\n  \n  If you like this plugin, \"Star\" it on ---> https://github.com/unknownuser88/consolewrap <---\n  \n  \n  Summary\n  ===========\n  \n  This plugin helps you easily create (comment, remove, show all) log statements (console.log, print etc.)\n  \n  It places selected variable in log statement like console.log(\"variable\", variable);\n  \n  This is not a snippet. \n  \n  \n  Supported languages\n  =======================\n  \n  * Javascript\n  * Python\n  * Php\n  \n  \n  Usage\n  =============\n  \n  First you need to select a variable (or put cursor on it) and press `\"ctrl+shift+q\"`. The log line will appear on the next line. Press `\"ctrl+shift+q\"` again to change wrapping (info,warn etc.)\n  \n  You can Also remove, comment or remove commented log statements from your selsection or from all document\n  you can find that functionality in context menu (right click) or Command Palette (command+shift+p on OS X, control+shift+p on Linux/Windows).\n  \n  \n  Key Binding\n  ==================\n  \n  The default key binding is `\"ctrl+shift+q\"` and `\"ctrl+shift+alt+q\"` (insert before selection).\n  \n  { \n      \"keys\": [\"ctrl+shift+q\"], \n      \"command\": \"console_wrap\",\n      \"args\": {\"insert_before\": false}\n  },\n  { \n      \"keys\": [\"ctrl+shift+alt+q\"], \n      \"command\": \"console_wrap\",\n      \"args\": {\"insert_before\": true}\n  }\n  \n  \n  \n  Commands\n  ===============\n  \n  {\n      \"caption\": \"Console Wrap: Create logs\",\n      \"command\": \"console_wrap\"\n  }, {\n      \"caption\": \"Console Wrap: Remove logs\",\n      \"command\": \"console_action\",\n      \"args\": {\"action\": \"remove\"}\n  }, {\n      \"caption\": \"Console Wrap: Remove Commented logs\",\n      \"command\": \"console_action\",\n      \"args\": {\"action\": \"remove_commented\"}\n  }, {\n      \"caption\": \"Console Wrap: Comment logs\",\n      \"command\": \"console_action\",\n      \"args\": {\"action\": \"comment\"}\n  }, {\n      \"caption\": \"Console Wrap: Show all logs\",\n      \"command\": \"console_action\",\n      \"args\": {\"action\": \"show_quick_nav\"}\n  }\n  \n  \n  Settings\n  ===============\n  \n  \n  {\n      \"js\": {\n          \"consoleStr\"   : \"{title}, {variable}\", // \"{title}, tmpVal = {variable}\" to assigne value to temporary parameter output: console.log('title', tmpVal = variable);\n          \"consoleFunc\"  : [\"console\", \"log\"],    // You can change default log statement for example [\"logger\", \"info\"] output: logger.info('title', variable);\n          \"single_quotes\": false,                 // If true output: console.log('title', variable);\n          \"semicolon\"    : true,                  // If false, will not add semicolon at end of line\n          \"log_types\"    : [\"log\", \"info\", \"warn\", \"error\"]\n      },\n      \"py\": {\n          \"consoleStr\"   : \"{title}, {variable}\",\n          \"consoleFunc\"  : [\"print\"],\n          \"single_quotes\": false\n      },\n      \"php\": {\n          \"consoleFunc\"  : [\"print_r\"],   // var_dump or if you have custom logger [\"$logger\", \"debug\"] output: $logger->debug($variable);\n          \"preTag\"       : true,          // Put log in pre tag like echo '<pre>'; print_r($variable); echo '</pre>';\n          \"dieAfterLog\"  : false          // echo '<pre>'; print_r($variable); echo '</pre>'; die();\n      },\n      \"fileTypeMap\" : {                   // Maps file type to wrapper. For example \"text.html.vue\": \"js\" means use js wrapper in vue js files\n          \"text.html.vue\"  : \"js\",        // php,python,js is included by dafault (\"embedding.php\": \"php\", \"source.js\": \"js\", \"source.python\": \"py\")\n          \"source.ts\"      : \"js\",\n          \"source.tsx\"     : \"js\",\n          \"source.coffee\"  : \"js\",\n          \"text.html.basic\": \"js\",\n          \"text.html.blade\": \"js\",\n          \"text.html.twig\" : \"js\"\n      }\n  }\n\n\nText Pastry\n-----------\n\n  # Text Pastry #\n  \n  _Text Pastry_ is a free plugin for [Sublime Text](http://www.sublimetext.com/), dedicated to reduce repetetive work by extending the power of [multiple selections](https://www.sublimetext.com/docs/selection).\n  \n  ## How can I get started?\n  If you're familiar with [multiple selections](https://www.sublimetext.com/docs/selection), it's pretty straight forward. Place multiple cursors by using CMD+Click or Ctrl+Click, open the [Command Palette](http://docs.sublimetext.info/en/latest/reference/command_palette.html) and select _Text Pastry From 1 to X_. That's it! We've just pasted incrementing numbers.\n  \n  Check out the [wiki](https://github.com/duydao/Text-Pastry/wiki/Examples) for examples!\n  \n  ## Features include: ##\n  \n  - Incremental numbers/sequences _(1, 2, 3 or 100, 80, 60)_\n  - Repeatable number ranges _(1, 2, 3, 4, 1, 2, 3, 4 or 2, 1, 2, 1, 2, 1)_\n  - Generate UUIDS _(ba18f7fc-c387-46da-9544-ed32e49ce6f8 or D306E86C-918F-4551-95A9-CB9865A4DD2F)_\n  - Extendable list of presets _(Monday, Tuesday, Wednesday or alpha, beta, gamma)_\n  - Extendable list of commands\n  - Create and modify selections\n  - Improved paste _(paste the first three lines of the clipboard data to the three selected locations)_\n  - Generate date and number ranges\n  - Convert to upper/lower case\n  - Duplicate values for pasting _(1, 1, 2, 2, 3, 3, 4, 4)_ or _(a, a, a, b, b, b, c, c, c)_\n  \n  ## What's new ##\n  - 1.5.1: Bugfix release for Find by regex [#56](https://github.com/duydao/Text-Pastry/issues/56) - Thanks [@timLinscott]\n  - 1.5.0: [New Features!](https://github.com/duydao/Text-Pastry/blob/master/RELEASENOTES.md)\n  - 1.4.10: Scroll into view on search / after find [#33](https://github.com/duydao/Text-Pastry/issues/33) - Thanks again [@miusuncle](https://github.com/miusuncle)\n  - 1.4.9: Bugfix release for uuid x10 [#31](https://github.com/duydao/Text-Pastry/issues/31) - Thanks [@miusuncle](https://github.com/miusuncle)\n  - 1.4.8: Added support for repeating increments [#29](https://github.com/duydao/Text-Pastry/issues/29) - Thanks [@mkruselj](https://github.com/mkruselj)\n  - 1.4.7: Fixed range command (stop condition was ignored)\n  - 1.4.6: Bugfix release for paste by row - Thanks [@Nieralyte](https://github.com/Nieralyte)\n  - 1.4.5: Added the paste by row command (use ```pr``` or ```pbr``` in the command line) [#28](https://github.com/duydao/Text-Pastry/issues/28)\n  - 1.4.4: Bugfix for command ```\\i``` [#27](https://github.com/duydao/Text-Pastry/issues/27) - Thanks [@kcko](https://github.com/Kcko)\n  - 1.4.3: New commands! Generate date ranges command, repeat argument (x-arg), and the [Auto Step](https://github.com/duydao/Text-Pastry/issues/20) command\n  - 1.4.2: Fix range / negative steps [#24](https://github.com/duydao/Text-Pastry/issues/24) - Thanks [@TheClams](https://github.com/TheClams)\n  - 1.4.1: Hotfix for [#23](https://github.com/duydao/Text-Pastry/issues/23) - Thanks [@dufferzafar](https://github.com/dufferzafar)\n  - 1.4.0: [New Features!](https://github.com/duydao/Text-Pastry/blob/master/RELEASENOTES.md#release-notes-140)\n  \n  ## Further information\n  \n  If you would like to know more about how _Text Pastry_ can help you out, check out our [Wiki](https://github.com/duydao/Text-Pastry/).\n  \n  ## Todo ##\n  - formatters\n  - wrappers [#20](https://github.com/duydao/Text-Pastry/issues/20)\n  - smart case: determine case-sensitivity by search term\n  \n  ## Wishlist ##\n  - Webservice \"Shell\": use a custom (web-)service to process our selections\n  - yankring\n  - Templates: apply formatting right before items are pasted\n  \n  ## Done ##\n  - ~~Paste by progressing a list (Piping Bag)~~ (1.5.0)\n  - ~~increment in multiple files~~ (1.5.0)\n  - ~~loops~~ (1.5.0)\n  - ~~date ranges~~ (1.4.10)\n  - ~~incremental search: add search terms to selection by shortcut (work-in-progress)~~ (1.4.0, use ``add``)\n  - ~~Alphabetical sequence (upper/lower case)~~ (1.4.0)\n  - ~~Random numbers, strings and sequences~~ (use [Random Everything](https://sublime.wbond.net/packages/Random%20Everything) in combination with commands)\n  - ~~Command List Overlay~~\n  - ~~Command History~~\n  - ~~UUID generation~~\n  - ~~Settings for word manipulation~~\n  - ~~Paste as Block~~\n  \n  ## Great plugins that I love to use with Text Pastry ##\n  \n  __in alphabetical order__\n  \n  - autoselect - https://github.com/SublimeText/AutoSelect\n  - Case Conversion - https://github.com/jdc0589/CaseConversion\n  - Hasher - https://github.com/dangelov/hasher/\n  - Insert Date - https://github.com/FichteFoll/sublimetext-insertdate\n  \n  ## License ##\n  \n  The MIT License (MIT)\n  \n  Copyright (c) 2016 Duy Dao, https://github.com/duydao/Text-Pastry\n  \n  Permission is hereby granted, free of charge, to any person obtaining a copy\n  of this software and associated documentation files (the \"Software\"), to deal\n  in the Software without restriction, including without limitation the rights\n  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n  copies of the Software, and to permit persons to whom the Software is\n  furnished to do so, subject to the following conditions:\n  \n  The above copyright notice and this permission notice shall be included in\n  all copies or substantial portions of the Software.\n  \n  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\n  THE SOFTWARE.\n  \n  \n  ## See Also ##\n  \n  For further information, please take the time to look at following links:\n  \n  * Sublime Text 3: http://www.sublimetext.com/3/\n  * Sublime Package Control: https://sublime.wbond.net/installation\n",
+			"settings":
+			{
+				"buffer_size": 16112,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "Searching 1 file for \"tens\" (regex)\n\nC:\\Users\\rjjan\\Documents\\Projects\\after-effects_nodeJS\\freeCodeCamp_JS\\romanNumerals.js:\n   10   };\n   11   \n   12: function tens(num){\n   13: let tensOutput = \"\"; \n   14  switch(num) {\n   15    case 1:\n   16    case 2:\n   17    case 3:\n   18:     tensOutput = roms.one.repeat(num);\n   19      break;\n   20    case 4:\n   21:     tensOutput = \"IV\";\n   22      break;\n   23    case 5:\n   ..\n   25    case 7:\n   26    case 8:\n   27:     tensOutput = roms.five + (roms.one.repeat(num - 5));\n   28      break;\n   29    case 9: \n   30:     tensOutput = \"IV\";\n   31    default:\n   32:     tensOutput = \"number too large for me to compute!\";\n   33  }\n   34  \n   35: return tensOutput;\n   36  }\n   37  return output;\n\n8 matches in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 766,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "freeCodeCamp_JS/curried.js",
+			"settings":
+			{
+				"buffer_size": 191,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -199,16 +211,32 @@
 		"selected_items":
 		[
 			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"sync",
+				"Sync Settings: Download"
+			],
+			[
+				"n",
+				"Nodejs::User File Settings"
+			],
+			[
 				"diff",
 				"Diffy Compare"
 			],
 			[
 				"preview",
 				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"remove",
@@ -245,14 +273,6 @@
 			[
 				"Snippet: ",
 				"Snippet: Lorem ipsum"
-			],
-			[
-				"sync",
-				"Sync Settings: Upload"
-			],
-			[
-				"package",
-				"Package Control: Install Package"
 			],
 			[
 				"subline",
@@ -303,14 +323,41 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS",
-		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS",
-		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension",
-		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/AfterEffectsPanel"
 	],
 	"file_history":
 	[
+		"/F/RandyGJanney.gpg",
+		"/C/Users/rjjan/Documents/4034E04AF78322F440FB21378970B3813B0CD012.asc",
+		"/E/README.diskdefines",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/cashRegister.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/phone.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/romanNumerals.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/optionaArgs.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/urlSlugify_every_some.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/sumAll.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/dropIt.js",
+		"/D/Movies/LoneSurvivor/Lone.Survivor.2013.DVDSCR.x264-EBX.nfo",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/smallestcommon.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/flattenArray.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/binaryascii.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/truthyProps.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/getset.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/orbitalPeriod.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/reduceunique.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/convertHTMLentities.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/fibonacci.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/sumprimes.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/findMissingLetterInSeq.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/dna.js",
+		"/Users/206098175/Desktop/2018/10/02/cep-sample-extension-master/testExtension/js/main.js",
 		"/C/Users/rjjan/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-build",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/searchreplace.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/iglatinpay.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/spinalTap.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/whatsInAName.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/diffArray.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/HelloWorld/CSXS/manifest.xml",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/hello.js",
 		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/index.html",
 		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsfl",
 		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsx",
@@ -406,48 +453,18 @@
 		"/Users/206098175/Projects/Custom_Animation_from_html/test.js",
 		"/Users/206098175/Keeper/AEStuff/NOC_AE-master/2-Chapter_2-Forces/VectorLib.jsx",
 		"/Users/206098175/Keeper/AEStuff/NOC_AE-master/1-Chapter_1-Vectors/1-1.jsx",
-		"/Users/206098175/Desktop/toThumb/AE/aetoolbox.jsx",
-		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/adastra.jsx",
-		"/Applications/Adobe After Effects CC 2014/Scripts/library/utils_keys.jsx",
-		"/Applications/Adobe After Effects CC 2014/Scripts/library/fonts.jsx",
-		"/Applications/Adobe After Effects CC 2014/Scripts/library/debug.jsx",
-		"/Applications/Adobe After Effects CC 2014/Scripts/library/3d.jsx",
-		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/misc/sampleColor.jsx",
-		"/Applications/Adobe After Effects CC 2014/Scripts/library/vectorMath.jsx",
-		"/Applications/Adobe After Effects CC 2014/Scripts/library/prototype.jsx",
-		"/Applications/Adobe After Effects CC 2014/Scripts/library/paragraph.jsx",
-		"/Applications/Adobe After Effects CC 2014/Scripts/library/paragraph2D.jsx",
-		"/Applications/Adobe After Effects CC 2014/Scripts/library/utils.jsx",
-		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/library/debug.jsx",
-		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/library/fonts.jsx",
-		"/Users/206098175/Desktop/toThumb/AE/after-effects-ad-astra-master/library/3d.jsx",
-		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/countdown_timer.jsx",
-		"/Users/206098175/Keeper/AEStuff/refresher_script_panel.jsx",
-		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/SelectedLayers.jsx",
-		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/Random_Colors.jsx",
-		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/NullParent.jsx",
-		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/Noise.jsx",
-		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/Move_Frames.jsx",
-		"/Users/206098175/Keeper/AEStuff/baffects.js-master/examples/MasksAndEffects.jsx",
-		"/Users/206098175/Keeper/AEStuff/applyPseudoEffects_withoutWritingPrefs.jsx",
-		"/Volumes/GFX2/Graphics/MISC/Lists/changes_2018-08-19.txt",
-		"/Volumes/GFX2/Graphics/MISC/Lists/changes_2018-08-20.txt",
-		"/Volumes/GFX2/Graphics/MISC/Lists/changes_2018-08-22.txt",
-		"/Users/206098175/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-		"/Users/206098175/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/AllTheExpressionsIn Use.js",
-		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/Scorecard_Expressions.jsx",
-		"/Volumes/GFX2/Graphics/MISC/Randy/AEStuff/PseudoEffects/PresetEffects.xml"
+		"/Users/206098175/Desktop/toThumb/AE/aetoolbox.jsx"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
-		"height": 101.0,
+		"height": 107.2,
 		"where_history":
 		[
+			"<current file>"
 		]
 	},
 	"find_state":
@@ -455,6 +472,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"tens"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -462,6 +480,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"ones"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -472,24 +491,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "hello.js",
+					"file": "freeCodeCamp_JS/romanNumerals-alt.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3093,
+						"buffer_size": 562,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								671,
-								671
+								324,
+								324
 							]
 						],
 						"settings":
@@ -502,100 +521,190 @@
 							],
 							"syncScroll": false,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 1
+							}
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "HelloWorld/CSXS/manifest.xml",
+					"file": "/C/Users/rjjan/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1100,
+						"buffer_size": 1036,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								782,
-								782
+								1036,
+								1036
 							]
 						],
 						"settings":
 						{
 							"git_gutter_is_enabled": false,
-							"open_with_edit": true,
 							"origPos":
 							[
 								0.0,
-								0.0
+								83.2
 							],
 							"syncScroll": false,
-							"syntax": "Packages/XML/XML.sublime-syntax",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"vim":
+							{
+								"xpos": 0
+							},
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "freeCodeCamp_JS/diffArray.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 639,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								152,
-								152
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"origPos":
-							[
-								0.0,
-								0.0
-							],
-							"syncScroll": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 83.2,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/Users/206098175/Desktop/2018/10/02/cep-sample-extension-master/testExtension/js/main.js",
+					"buffer": 2,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 16112,
 						"regions":
 						{
+						},
+						"selection":
+						[
+							[
+								16112,
+								16112
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "C:\\Users\\rjjan\\AppData\\Roaming\\Sublime Text 3\\Packages\\User",
+							"git_gutter_is_enabled": false,
+							"origPos":
+							[
+								0.0,
+								12353.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"vim":
+							{
+								"xpos": 0
+							},
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12353.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 766,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										162,
+										166
+									],
+									[
+										184,
+										188
+									],
+									[
+										285,
+										289
+									],
+									[
+										366,
+										370
+									],
+									[
+										471,
+										475
+									],
+									[
+										571,
+										575
+									],
+									[
+										619,
+										623
+									],
+									[
+										702,
+										706
+									]
+								],
+								"scope": ""
+							}
 						},
 						"selection":
 						[
@@ -606,7 +715,65 @@
 						],
 						"settings":
 						{
+							"default_dir": "C:\\Users\\rjjan\\Documents\\Projects\\after-effects_nodeJS\\freeCodeCamp_JS",
+							"detect_indentation": false,
 							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syncScroll": false,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "freeCodeCamp_JS/curried.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"highlight_line": true,
 							"origPos":
 							[
 								0.0,
@@ -614,30 +781,39 @@
 							],
 							"syncScroll": false,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": true,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_insert",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 9
+							}
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 32.0
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -648,18 +824,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.887940841866,
 			1.0
 		],
 		"rows":
@@ -675,7 +844,7 @@
 	},
 	"output.exec":
 	{
-		"height": 371.0
+		"height": 228.0
 	},
 	"output.find_results":
 	{
@@ -693,7 +862,7 @@
 	"project": "AE_Node.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -726,12 +895,23 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"_vintageous_reset_during_init": true,
+		"vim":
+		{
+			"alternate_view": null,
+			"last_command_line": null,
+			"last_search_pattern": null
+		},
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Users\\rjjan\\Documents\\Projects\\after-effects_nodeJS\\freeCodeCamp_JS"
+		}
 	},
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 272.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
